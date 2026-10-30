@@ -3,3 +3,8 @@ __pycache__/
 *.py[cod]
 reports/rejected_records_*.csv
 reports/execution_report_*.json
+
+.venv/
+food_orders.csv
+data/
+reports/validation_report_*.md
