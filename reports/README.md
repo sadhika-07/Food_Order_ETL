@@ -1,0 +1,1 @@
+Run elt_batch_pipeline.py to generate run-specific execution and validation reports and rejected-record CSVs. The report currently present is a source-data preflight only, not a MySQL execution report.
