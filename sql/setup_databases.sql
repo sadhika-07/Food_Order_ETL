@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS food_orders_raw_db CHARACTER SET utf8mb4;
+CREATE DATABASE IF NOT EXISTS food_orders_analytics_db CHARACTER SET utf8mb4;
